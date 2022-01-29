@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 SKILLS:muscle:
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Android&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuturn&show_icons=true&theme=vue)
