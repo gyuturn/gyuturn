@@ -13,9 +13,12 @@ I am a junior developer in the field of backend
 <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>
-
-
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/KafKa-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/Apache NiFi-blue?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-9cf?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-informational?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
