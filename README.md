@@ -1,8 +1,6 @@
 ### Hi there 👋   
 
-I'm Gyu-Min
-
-I am a junior developer in the field of backend
+현대자동차 백엔드 개발자
 
 ### HISTORY
 - 현대자동차 소프티어 부트캠프(2023.01~2023.02)
